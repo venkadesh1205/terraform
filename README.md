@@ -29,8 +29,7 @@ Terraform have a terraform provider(will learn later) which talk to the target A
 
 Terraform also use HashiCorp Configuration Language(HCL) which is simple and in declarative way.
 # Install Terraform 
-https://developer.hashicorp.com/terraform/downloads
-You can download terraform for different OS using above link.
+You can [download terraform](https://developer.hashicorp.com/terraform/downloads) for different OS.
 
 
 
