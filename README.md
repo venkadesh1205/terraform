@@ -28,3 +28,10 @@
 Terraform have a terraform provider(will learn later) which talk to the target API's and create a resource.
 
 Terraform also use HashiCorp Configuration Language(HCL) which is simple and in declarative way.
+# Install Terraform 
+https://developer.hashicorp.com/terraform/downloads
+You can download terraform for different OS using above link.
+
+
+
+
